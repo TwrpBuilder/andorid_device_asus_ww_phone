@@ -32,6 +32,3 @@ deploy:
     tags: false
     repo: TwrpBuilder/android_device_asus_ww_phone
     branch: master
-branches:
-  except:
-    - /^(?i:untagged)-.*$/
